@@ -24,10 +24,6 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 ![paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)
 
-**Cloud Storage:** [Cloudinary](https://cloudinary.com/)
-
-**Mail Service:** [Sendgrid](https://sendgrid.com/)
-
 ## 🚀 Features
 
 **User Account Management**
